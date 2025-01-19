@@ -1,4 +1,4 @@
-# Final Project Report – Celebrity Search - Dabeet
+# Celebrity Search
 
 ## Task
 The task was to develop an accurate convolutional neural network (CNN) to classify images of celebrities. The Kaggle dataset was used, which contains images of various celebrities, but for this project, we focused on only five: **Angelina Jolie**, **Leonardo DiCaprio**, **Robert Downey Jr.**, **Tom Cruise**, and **Megan Fox**.
